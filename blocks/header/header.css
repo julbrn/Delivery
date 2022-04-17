@@ -1,0 +1,30 @@
+.header {
+  box-sizing: border-box;
+  padding: 25px 140px 0;
+  width: 100%;
+  background-color: #F0F5FB;
+  margin-bottom: -105px;
+  position: relative;
+  z-index: 1;
+}
+
+.header::before {
+ content: "";
+ background-image: url(../../images/header/icons.svg);
+ background-repeat: no-repeat;
+ background-size: fill;
+ position: absolute;
+ top: 49px;
+ right: 0px;
+ bottom: 0px;
+ left: 24px;
+ z-index: 2;
+ animation: moveIt 18s linear infinite;
+}
+
+
+@keyframes moveIt {
+  from {top: 750px;}
+  to {top: -65px;}
+}
+

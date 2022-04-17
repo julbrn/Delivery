@@ -1,0 +1,8 @@
+.page {
+  max-width: 1440px;
+  min-width: 320px;
+  box-sizing: border-box;
+  font-family: 'Montserrat';
+  flex-shrink: no;
+  margin: 0 auto;
+}

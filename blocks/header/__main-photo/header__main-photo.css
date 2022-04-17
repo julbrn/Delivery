@@ -1,0 +1,5 @@
+.header__main-photo {
+  max-width: 996px;
+  margin: 0 auto 0;
+  object-fit: contain;
+}

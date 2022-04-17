@@ -1,0 +1,16 @@
+.menu__cart-button {
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  top: 131px;
+  left: 88px;
+  border: none;
+  background: url('../../../images/menu/shop-cart1.png');
+  background-size: contain;
+  cursor: grab;
+  transition: 0.4s ease;
+}
+
+.menu__cart-button:hover {
+  transform: scale(1.4);
+}

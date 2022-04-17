@@ -1,0 +1,11 @@
+.header__link {
+  text-decoration: none;
+  transition: .4s;
+  color: black;
+  cursor: grab;
+}
+
+.header__link:hover {
+  opacity: .5;
+
+}

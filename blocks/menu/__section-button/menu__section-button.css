@@ -1,0 +1,23 @@
+.menu__section-button {
+  background-color: #ECEEF6;
+  padding-top: 16px;
+  padding-bottom: 17px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.37;
+  border-radius: 45px;
+  width: 135px;
+  border: none;
+  transition-duration: 0.5s;
+}
+
+.menu__section-button:hover {
+  opacity: 0.5;
+  cursor: grab;
+}
+
+.menu__section-button:focus {
+  background-color: #59AAF1;
+  color: #fff;
+  opacity: 1;
+}

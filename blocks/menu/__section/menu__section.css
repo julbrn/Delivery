@@ -1,0 +1,7 @@
+.menu__section {
+  margin-left: 31px;
+}
+
+.menu__section:first-child {
+  margin: 0;
+}

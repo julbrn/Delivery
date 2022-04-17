@@ -1,0 +1,21 @@
+.load-more {
+  width: 60px;
+  height: 60px;
+  border: none;
+  background: url('./images/menu/more.svg');
+  background-size: contain;
+  cursor: grab;
+  transition-property: transform;
+  transition-duration: .6s;
+  margin: 60px 0 103px 0;
+}
+
+@keyframes rotate {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg)};
+}
+
+.load-more:hover{
+  opacity: .8;
+  animation: rotate 2s linear 0s infinite;
+}

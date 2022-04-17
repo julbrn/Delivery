@@ -1,0 +1,7 @@
+.content {
+  background-image: url('../../images/content/icons2.svg');
+  background-repeat: no-repeat;
+  background-position-y: 260px;
+  background-size: contain;
+  z-index: -300;
+}

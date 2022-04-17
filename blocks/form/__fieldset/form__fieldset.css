@@ -1,0 +1,9 @@
+.form__fieldset {
+  display: grid;
+  margin: 42px 0 0 0;
+  column-gap: 40px;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 280px));
+  grid-auto-flow: column;
+  position: relative;
+  z-index: 500;
+}

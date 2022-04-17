@@ -1,0 +1,15 @@
+.menu__cart {
+  width: 308px;
+  height: 166px;
+  position: absolute;
+  top: 145px;
+  right: 15px;
+  border: none;
+  background-image: url("../../../images/menu/cart_n_price.png");
+  transition: .5s ease-out;
+}
+
+.menu__cart:hover {
+  opacity: .7;
+  cursor: grab;
+}

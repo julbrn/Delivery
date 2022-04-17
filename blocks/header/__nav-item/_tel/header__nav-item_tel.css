@@ -1,0 +1,8 @@
+.header__nav-item_tel {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.22;
+  min-width: 187px;
+  display: flex;
+  align-items: center;
+}

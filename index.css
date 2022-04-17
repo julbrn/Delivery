@@ -1,0 +1,80 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+@import url(./blocks/content/content.css);
+@import url(./blocks/page/page.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__nav-items/header__nav-items.css);
+@import url(./blocks/header/__nav/header__nav.css);
+@import url(./blocks/header/__nav-item/header__nav-item.css);
+@import url(./blocks/header/__nav-item/_logo/header__nav-item_logo.css);
+@import url(./blocks/header/__nav-item/_tel/header__nav-item_tel.css);
+@import url(./blocks/header/__telephone/header__telephone.css);
+@import url(./blocks/header/__main-photo/header__main-photo.css);
+@import url(./blocks/header/__title/header__title.css);
+@import url(./blocks/header/__subtitle/header__subtitle.css);
+@import url(./blocks/header/__text/header__text.css);
+@import url(./blocks/header/__main-photo-block/header__main-photo-block.css);
+@import url(./blocks/header/__sidebar/header__sidebar.css);
+@import url(./blocks/header/__sidebar/_accent/header__sidebar_accent.css);
+@import url(./blocks/header/__nav-item/_underline/header__nav-item_underline.css);
+@import url(./blocks/header/__sidebar-vector/header__sidebar-vector.css);
+@import url(./blocks/header/__nav-item-bullet/header__nav-item-bullet.css);
+@import url(./blocks/header/__nav-item/_hours/header__nav-item_hours.css);
+@import url(./blocks/header/__link/header__link.css);
+@import url(./blocks/header/__button/header__button.css);
+@import url(./blocks/menu/menu.css);
+@import url(./blocks/menu/__section/menu__section.css);
+@import url(./blocks/menu/__sections/menu__sections.css);
+@import url(./blocks/menu/__title/menu__title.css);
+@import url(./blocks/menu/__section-button/menu__section-button.css);
+@import url(./blocks/menu/__pizzas/menu__pizzas.css);
+@import url(./blocks/menu/__pizza-card/menu__pizza-card.css);
+@import url(./blocks/menu/__pizza-name/menu__pizza-name.css);
+@import url(./blocks/menu/__pizza-photo/menu__pizza-photo.css);
+@import url(./blocks/menu/__pizza-size/menu__pizza-size.css);
+@import url(./blocks/menu/__cart/menu__cart.css);
+@import url(./blocks/menu/__ingredients/menu__ingreients.css);
+@import url(./blocks/menu/__name-size/menu__name-size.css);
+@import url(./blocks/menu/__card-text/menu__card-text.css);
+@import url(./blocks/menu/__price/menu__price.css);
+@import url(./blocks/menu/__cart-button/menu__cart-button.css);
+@import url(./blocks/menu/__cart-button2/menu__cart-button2.css);
+@import url(./blocks/instagram/instagram.css);
+@import url(./blocks/instagram/__link-line/instagram__link-line.css);
+@import url(./blocks/instagram/__container/instagram__container.css);
+@import url(./blocks/instagram/__photos/instagram__photos.css);
+@import url(./blocks/instagram/__link/instagram__link.css);
+@import url(./blocks/instagram/__link/_accent/instagram__link_accent.css);
+@import url(./blocks/load-more/load-more.css);
+@import url(./blocks/form/form.css);
+@import url(./blocks/form/__background/form__background.css);
+@import url(./blocks/form/__background2/form__background2.css);
+@import url(./blocks/form/__field/form__field.css);
+@import url(./blocks/form/__fieldset/form__fieldset.css);
+@import url(./blocks/form/__title/form__title.css);
+@import url(./blocks/form/__button/form__button.css);
+@import url(./blocks/form/__car/form__car.css);
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__item/footer__item.css);
+@import url(./blocks/footer/__item/_accent/footer__item_accent.css);
+@import url(./blocks/footer/__items/footer__items.css);
+@import url(./blocks/footer/__logo/footer__logo.css);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
