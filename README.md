@@ -1,5 +1,10 @@
-# Delivery
-Additional task for 45_navy students (Yandex Practicum). HTML&CSS only.
-# Link to the project: 
+# Проект Food Delivery
+
+## Краткое описание:
+Выполнено в качестве дополнительного задания от наставника в "Яндекс.Практикум". 
+Выполнена вёрстка (только десктоп) по макету Figma, а также добавлена анимация CSS. 
+Создана Nested файловая структура по БЭМ. Именования классов по технологии БЭМ.
+
+## Ссылка на проект: 
 [Github Pages](https://julbrn.github.io/Delivery/)
 
